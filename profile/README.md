@@ -1,1 +1,1 @@
-[![MQTT Broker for IoT](https://assets.emqx.com/images/emqx-github-profile-2022120901.png)](https://www.emqx.io/downloads)
+[![Download EMQX](https://assets.emqx.com/images/e2cc0aaefbaacbd6f6a88d59f9d14877.jpg)](https://www.emqx.io/downloads)
