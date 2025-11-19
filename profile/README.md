@@ -1,2 +1,1 @@
-[![Download EMQX](https://github.com/user-attachments/assets/a644bb58-572b-4eb1-985b-b54f5d706d16)](https://www.emqx.com/en/try?tab=self-managed)
-
+[![Download EMQX](https://github.com/user-attachments/assets/fddf6bd2-78c5-4a72-baf2-a493d1c69fd0)](https://www.emqx.com/en/try?tab=self-managed)
