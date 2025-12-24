@@ -1,4 +1,4 @@
-[![Download EMQX](https://github.com/user-attachments/assets/fddf6bd2-78c5-4a72-baf2-a493d1c69fd0)](https://www.emqx.com/en/try?tab=self-managed)
+[![Download EMQX](https://github.com/user-attachments/assets/bd499ede-b3b1-43fb-a51d-b912591d78ca)](https://www.emqx.com/en/try?tab=self-managed)
 
 # Welcome to EMQ on GitHub
 
@@ -13,7 +13,7 @@ Explore our unified platform at [www.emqx.com](https://www.emqx.com/en).
 - **[MQTTX](https://github.com/emqx/MQTTX)**  
   All-in-one MQTT 5.0 client toolbox: intuitive Desktop app, powerful CLI, and Web-based client for testing and debugging.
 - **[Neuron](https://github.com/emqx/neuron)**  
-  Industrial IoT connectivity server supporting **100+ protocols**. Open-source core with full-featured enterprise edition (NeuronEX).
+  Industrial IoT connectivity server supporting **100+ protocols**. Open-source core with full-featured enterprise edition ([NeuronEX](https://www.emqx.com/en/products/emqx-neuron)).
 
 ## MQTT SDKs & Client Resources
 
