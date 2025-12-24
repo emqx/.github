@@ -7,7 +7,7 @@ EMQ builds the **world's most scalable MQTT platform**, powering real-time data 
 
 Explore our unified platform at [www.emqx.com](https://www.emqx.com/en).
 
-## Core Products
+## Core Projects
 
 - **[EMQX](https://github.com/emqx/emqx)**  
   The most scalable and reliable MQTT broker — supports **100M+ concurrent connections** with ultra-low latency for mission-critical IoT and AI applications.
