@@ -1,4 +1,5 @@
-[![Download EMQX](https://github.com/user-attachments/assets/bd499ede-b3b1-43fb-a51d-b912591d78ca)](https://www.emqx.com/en/try?tab=self-managed)
+[![Download EMQX](https://github.com/user-attachments/assets/4cad5cd8-9d2a-4859-95b1-13ec60225545)](https://www.emqx.com/en/try?tab=self-managed)
+
 
 # Welcome to EMQ on GitHub
 
