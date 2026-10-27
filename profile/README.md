@@ -9,11 +9,11 @@ Explore our unified platform at [www.emqx.com](https://www.emqx.com/en).
 
 ## Core Projects
 
-- **[EMQX Enterprise](https://github.com/emqx/emqx)**  
+- **[EMQX](https://github.com/emqx/emqx)**  
   The most scalable and reliable MQTT broker — supports **10M+ concurrent connections** with ultra-low latency for mission-critical IoT and AI applications.
 - **[MQTTX](https://github.com/emqx/MQTTX)**  
   All-in-one MQTT 5.0 client toolbox: intuitive Desktop app, powerful CLI, and Web-based client for testing and debugging.
-- **[EMQX Neuron](https://github.com/emqx/neuron)**  
+- **[Neuron](https://github.com/emqx/neuron)**  
   Industrial IoT connectivity server supporting **100+ protocols**. Open-source core with full-featured enterprise edition ([EMQX Neuron](https://www.emqx.com/en/products/emqx-neuron)).
 
 ## MQTT SDKs & Client Resources
